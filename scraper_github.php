@@ -11,7 +11,7 @@ declare(strict_types=1);
  * =====================================================================
  */
 
-const USER_AGENT = 'SuiviHandball-SiteClub/1.0 (contact: votre-email@exemple.fr)';
+const USER_AGENT = 'SuiviHandball-SiteClub/1.0 (contact: danielg.1@free.fr)';
 const DELAI_ENTRE_REQUETES_SEC = 1;
 
 // Les 4 équipes suivies, leur poule FFHB, et le mot-clé de LEUR club
